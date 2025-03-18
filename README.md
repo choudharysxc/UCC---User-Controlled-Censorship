@@ -1,5 +1,3 @@
-# UCC---User-Controlled-Censorship
-
 # User-Controlled Censorship (UCC)
 
 A **Machine Learning-powered text filtering system** that provides user-controlled profanity censorship. Instead of rigid blacklists, this model **scores words based on severity**, allowing dynamic filtering based on user-defined thresholds.
