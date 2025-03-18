@@ -42,6 +42,8 @@ Then enter the text and censorship threshold when prompted.
 ## 📜 License
 This project is open-source. Feel free to contribute!
 
+## Final Thoughts
+I am taking a break from this project for now {EXAMS}.
 ---
 ### 💡 Contributors
 Developed by **Kinjal Choudhary** 🎯
