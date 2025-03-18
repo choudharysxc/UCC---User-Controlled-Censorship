@@ -48,3 +48,5 @@ I am taking a break from this project for now {EXAMS}.
 ### 💡 Contributors
 Developed by **Kinjal Choudhary** 🎯
 
+**Feel free to use or improve it**
+
