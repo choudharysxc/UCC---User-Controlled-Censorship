@@ -13,7 +13,7 @@ A **Machine Learning-powered text filtering system** that provides user-controll
 ## ⚙️ How It Works
 1. **Text is analyzed** using a trained **Naïve Bayes model** to detect vulgarity.
 2. If **vulgar**, words are **filtered based on their severity weight** (from `Version_2.py`).
-3. Users can **set the censorship level** (e.g., mild filtering at 0.3 vs. strict filtering at 0.8).
+3. Users can **set the censorship level** (e.g., mild filtering at 0.9 vs. strict filtering at 0.1).
 4. Final output replaces words **above the threshold** with `[CENSORED]`.
 
 ## 📦 Installation
