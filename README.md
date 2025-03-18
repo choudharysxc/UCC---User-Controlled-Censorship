@@ -38,7 +38,7 @@ Then enter the text and censorship threshold when prompted.
 - **Fine-tuning with deep learning models** like BERT for improved accuracy.
 
 ## 📜 License
-This project is open-source. Feel free to contribute!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Final Thoughts
 
@@ -46,7 +46,4 @@ I am taking a break from this project for now **EXAMS**!
 
 ### 💡 Contributors
 Developed by **Kinjal Choudhary** 🎯
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
